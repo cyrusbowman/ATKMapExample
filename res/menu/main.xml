@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   <!--  <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/> --> 
+	<item
+        android:id="@+id/add_point"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Add Point"/>
+	
+	<item
+        android:id="@+id/draw_polygon"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Draw Polygon"/>
+	
+	<item
+        android:id="@+id/close_polygon"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Done Drawing Polygon"/>
+	
+	<item
+        android:id="@+id/add_polygon"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Add Polygon"/>
+	
+	<item
+        android:id="@+id/update_polygon"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Update polygon"/>
+	
+</menu>
