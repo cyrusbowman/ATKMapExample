@@ -3,7 +3,8 @@ ATKMapExample
 
 Example for using the ATKMap functionality of the OpenATKLib
 
-Requires Libaries:
+Required libraries:
+=============
 
 OpenATKLib
 
